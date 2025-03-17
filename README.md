@@ -25,6 +25,14 @@ Este repositório foi criado para documentar meus estudos em **Python**, contend
 ✅ **Manipulando Strings com Python**  
 ✅ **Explorando Fundamentos de Python**    
 
+### 📂 **Módulo 2 – Estruturas de Dados com Python**
+✅ Trabalhando com Listas  
+✅ Conhecendo Tuplas  
+✅ Explorando Conjuntos  
+✅ Aprendendo a Utilizar Dicionários  
+✅ Dominando Funções  
+✅ Desafio: Estruturas de Dados  
+
 ---
 
 ## 🎯 Objetivo  
